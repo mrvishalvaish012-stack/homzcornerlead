@@ -17,6 +17,7 @@
   "author": "LeadPulse",
   "license": "MIT",
   "dependencies": {
+    "mongoose": "^8.0.0",
     "express": "^4.21.2",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
