@@ -1,0 +1,6 @@
+{
+  "name": "LeadPulse CRM",
+  "description": "WhatsApp Web QR Gateway & Meta Leads Campaign CRM with round-robin or dedicated single-agent lead distribution, role-based login isolation, Excel bulk import, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

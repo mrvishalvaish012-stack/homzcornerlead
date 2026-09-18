@@ -1,0 +1,77 @@
+{
+  "leads": [
+    {
+      "id": "test_1789729449722",
+      "source": "Meta Lead Ads (Test)",
+      "leadId": "test_meta_51693",
+      "formId": "test_form",
+      "pageId": "test_page",
+      "name": "Rahul Sharma",
+      "phone": "+91 98765 43210",
+      "phoneNumber": "+91 98765 43210",
+      "email": "rahul.sharma@example.com",
+      "message": "Interested in 3 BHK Luxury Apartment inquiry from Instagram",
+      "initialMessage": "Interested in 3 BHK Luxury Apartment inquiry from Instagram",
+      "createdAt": 1789729449722,
+      "updatedAt": 1789729449722,
+      "assignedAgentId": 1,
+      "assignedAgentName": "Vikram Malhotra",
+      "status": "NEW",
+      "priority": "HOT",
+      "budget": "₹50,000 - ₹1,00,000",
+      "dealValue": 75000
+    }
+  ],
+  "agents": [
+    {
+      "id": 1,
+      "name": "Vikram Malhotra",
+      "email": "vikram.m@sales.leadpulse.com",
+      "phoneNumber": "+91 98765 43210",
+      "role": "AGENT",
+      "isActive": true,
+      "leadsAssignedCount": 12,
+      "leadsConvertedCount": 4,
+      "lastAssignedAt": 1789725842576,
+      "avatarColorHex": 4280640491
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "email": "priya.s@sales.leadpulse.com",
+      "phoneNumber": "+91 98765 43211",
+      "role": "AGENT",
+      "isActive": true,
+      "leadsAssignedCount": 14,
+      "leadsConvertedCount": 6,
+      "lastAssignedAt": 1789727642576,
+      "avatarColorHex": 4279286145
+    },
+    {
+      "id": 3,
+      "name": "Amit Verma",
+      "email": "amit.v@sales.leadpulse.com",
+      "phoneNumber": "+91 98765 43212",
+      "role": "AGENT",
+      "isActive": true,
+      "leadsAssignedCount": 10,
+      "leadsConvertedCount": 3,
+      "lastAssignedAt": 1789722242576,
+      "avatarColorHex": 4294286859
+    },
+    {
+      "id": 4,
+      "name": "Neha Gupta",
+      "email": "neha.g@sales.leadpulse.com",
+      "phoneNumber": "+91 98765 43213",
+      "role": "AGENT",
+      "isActive": true,
+      "leadsAssignedCount": 11,
+      "leadsConvertedCount": 5,
+      "lastAssignedAt": 1789728542576,
+      "avatarColorHex": 4287323382
+    }
+  ],
+  "feedbacks": [],
+  "savedAt": "2026-09-18T11:04:09.723Z"
+}
